@@ -1,10 +1,36 @@
+/*
 body {
   font-size: 10px;
-  font-weight: bold; }
-  body a {
-    color: black; }
+  font-weight: bold;
+
+  a {
+    color: black;
+  }
+}
 
 h1 {
   text-align: center;
   font-size: 45px;
-  font-kerning: auto; }
+  font-kerning: auto;
+}
+*/
+/*
+header {
+  display:block;
+  width: 100%;
+  background: black;
+  color: white;
+}
+*/
+.logo {
+  font-size: 32px;
+  font-family: 'Lobster', cursive;
+  color: black;
+  padding-left: 15px;
+  padding-top: 5px;
+  font-weight: 200; }
+
+.nav {
+  font-size: 20px;
+  font-family: 'Lobster', cursive;
+  color: black; }
